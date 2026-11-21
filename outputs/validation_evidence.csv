@@ -1,0 +1,12 @@
+Check,Result
+Duplicate ticker-date rows,0
+Share and benchmark week labels identical,True
+Aligned weekly observations per share,207
+Missing weekly returns,0
+Max |cov/var beta - OLS slope| (all shares),2.22e-15
+Event threshold uses only prior 20 sessions,True
+Full 20-session baseline across 60-session window,True
+Observation date,2024-12-31
+Shares with R = 0 (event on observation date),0
+Shares with no qualifying event (R missing),0
+F = 0 shares all have last event before window,True

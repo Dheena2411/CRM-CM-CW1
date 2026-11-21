@@ -1,0 +1,13 @@
+{
+  "ticker_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "ticker_retrieval_date": "2026-11-20",
+  "price_source": "Yahoo Finance via yfinance",
+  "yfinance_version": "0.2.66",
+  "pandas_version": "2.2.3",
+  "download_timestamp": "2026-11-20T16:55:30",
+  "start_date": "2021-01-01",
+  "end_date_exclusive": "2025-01-01",
+  "benchmark": "^GSPC",
+  "auto_adjust": false,
+  "n_tickers_requested": 504
+}
